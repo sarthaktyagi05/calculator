@@ -1,0 +1,11 @@
+input[type="button"]
+    {
+     width:100px;
+     text-align: center;
+     background-color: chocolate;
+     margin: auto;
+     border: 5px solid teal;
+     width: 102px;
+     justify-content: center;
+     display: inline;
+    }
